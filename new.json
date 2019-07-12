@@ -1,0 +1,169 @@
+[
+  {
+    "description": "old gensec",
+    "id": "1",
+    "exercises": [
+      {
+        "id": 1,
+        "courseId": 1,
+        "name": "Introduction (aadil)",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submissions": [
+          {
+            "id": 1,
+            "courseId": 1,
+            "exerciseId": 1,
+            "content": "Yaha aapki submissions ka content.",
+            "userName": "Rishabh Verma"
+          },
+          {
+            "id": 2,
+            "courseId": 1,
+            "exerciseId": 1,
+            "content": "anand.",
+            "userName": "Rishabh Verma"
+          }
+        ]
+      },
+      {
+        "name": "razal)",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "content": "Iss .",
+        "id": 2,
+        "courseId": "1",
+        "submissions": []
+      },
+      {
+        "name": "kajal",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "id": 3,
+        "courseId": "1",
+        "submissions": []
+      }
+    ],
+    "name": "modi "
+  },
+  {
+    "name": "amu",
+    "description": "darling",
+    "exercises": [
+      {
+        "id": 1,
+        "courseId": 2,
+        "name": "Introduction (ek naya naam)",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+      }
+    ],
+    "id": 2
+  },
+  {
+    "name": "ajay",
+    "description": "gandi hai",
+    "exercises": [],
+    "id": 3
+  },
+  {
+    "name": "meera",
+    "description": "chai",
+    "exercises": [],
+    "id": 4
+  },
+  {
+    "name": "prakash",
+    "description": "it",
+    "exercises": [],
+    "id": 5
+  },
+  {
+    "name": "pr-0",
+    "description": "ihht",
+    "exercises": [],
+    "id": 6
+  },
+  {
+    "name": "anand babu",
+    "description": "intertement",
+    "exercises": [],
+    "id": 7
+  },
+  {
+    "name": "anurag ",
+    "description": "fintertement",
+    "exercises": [],
+    "id": 8
+  },
+  {
+    "id": 9,
+    "name": "hello",
+    "description": "baby",
+    "exercises": []
+  },
+  {
+    "id": 10,
+    "name": "hello",
+    "description": "baby",
+    "exercises": []
+  },
+  {
+    "id": 11,
+    "name": "hello",
+    "description": "baby",
+    "exercises": []
+  },
+  {
+    "id": 12,
+    "name": "open",
+    "description": "the ....",
+    "exercises": []
+  },
+  {
+    "id": 13,
+    "name": "prakash",
+    "description": "jast do it",
+    "exercises": []
+  },
+  {
+    "id": 14,
+    "name": "pavan",
+    "description": "I ts bakchodi",
+    "exercises": []
+  },
+  {
+    "name": "prince",
+    "description": "I ts bakchodi",
+    "id": 15
+  },
+  {
+    "name": "anand babu",
+    "description": "I ts bakchodi",
+    "id": 16
+  },
+  {
+    "name": "aman jha",
+    "description": "coder",
+    "id": 17
+  },
+  {
+    "name": "ram",
+    "description": "coder",
+    "id": 18
+  },
+  {
+    "id": 19,
+    "name": "yo yo",
+    "description": "singh"
+  },
+  {
+    "id": 20,
+    "name": "gandu",
+    "description": "singh"
+  },
+  {
+    "id": 21,
+    "name": "gandu",
+    "description": "singh"
+  }
+]
